@@ -1,8 +1,11 @@
 import { VStack, Heading, Icon, useTheme } from "native-base";
-import { Envelope, Key } from "phosphor-react-native";
 import { useState } from "react";
 
+// ICONS
+import { Envelope, Key } from "phosphor-react-native";
 import Logo from "../assets/logo_primary.svg";
+
+// COMPONENTS
 import { Input } from "../components/Input";
 import { Button } from "../components/Button";
 

@@ -1,5 +1,6 @@
 import { VStack } from "native-base";
 
+// COMPONENTS
 import { Header } from "../components/Header";
 import { Input } from "../components/Input";
 import { Button } from "../components/Button";
