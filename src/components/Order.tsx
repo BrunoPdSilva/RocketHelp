@@ -35,7 +35,7 @@ export function Order({ data, ...rest }: Props) {
   return (
     <Pressable {...rest}>
       <HStack
-        bg="gray.700"
+        bg="gray.600"
         mb={4}
         alignItems="center"
         justifyContent="space-between"
